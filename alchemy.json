@@ -1,0 +1,308 @@
+[
+ {
+   "FIELD1": "",
+   "Reagent": "Beetle Scuttle",
+   "Primary Effect": "Breach",
+   "Secondary Effect": "Increase Armor",
+   "Tertiary Effect": "Protection",
+   "Quaternary Effect": "Vitality",
+   "Comes from": "Beetles, Thunderbugs, Assassin Beetles, Shalks"
+ },
+ {
+   "FIELD1": "",
+   "Reagent": "Blessed Thistle",
+   "Primary Effect": "Restore Stamina",
+   "Secondary Effect": "Increase Weapon Power",
+   "Tertiary Effect": "Ravage Health",
+   "Quaternary Effect": "Speed",
+   "Comes from": "Default nodes"
+ },
+ {
+   "FIELD1": "",
+   "Reagent": "Blue Entoloma",
+   "Primary Effect": "Ravage Magicka",
+   "Secondary Effect": "Cowardice",
+   "Tertiary Effect": "Restore Health",
+   "Quaternary Effect": "Invisible",
+   "Comes from": "Fungal nodes"
+ },
+ {
+   "FIELD1": "",
+   "Reagent": "Bugloss",
+   "Primary Effect": "Increase Spell Resist",
+   "Secondary Effect": "Restore Health",
+   "Tertiary Effect": "Cowardice",
+   "Quaternary Effect": "Restore Magicka",
+   "Comes from": "Default nodes"
+ },
+ {
+   "FIELD1": "",
+   "Reagent": "Butterfly Wing",
+   "Primary Effect": "Restore Health",
+   "Secondary Effect": "Uncertainty",
+   "Tertiary Effect": "Lingering Health",
+   "Quaternary Effect": "Vitality",
+   "Comes from": "Butterflies"
+ },
+ {
+   "FIELD1": "",
+   "Reagent": "Chaurus Egg",
+   "Primary Effect": "Timidity",
+   "Secondary Effect": "Ravage Magicka",
+   "Tertiary Effect": "Restore Stamina",
+   "Quaternary Effect": "Detection",
+   "Comes from": "Chauruses"
+ },
+ {
+   "FIELD1": "",
+   "Reagent": "Clam Gall",
+   "Primary Effect": "Increase Spell Resist",
+   "Secondary Effect": "Hindrance",
+   "Tertiary Effect": "Vulnerability",
+   "Quaternary Effect": "Defile",
+   "Comes from": "Giant Clams"
+ },
+ {
+   "FIELD1": "",
+   "Reagent": "Columbine",
+   "Primary Effect": "Restore Health",
+   "Secondary Effect": "Restore Magicka",
+   "Tertiary Effect": "Restore Stamina",
+   "Quaternary Effect": "Unstoppable",
+   "Comes from": "Default nodes"
+ },
+ {
+   "FIELD1": "",
+   "Reagent": "Corn Flower",
+   "Primary Effect": "Restore Magicka",
+   "Secondary Effect": "Increase Spell Power",
+   "Tertiary Effect": "Ravage Health",
+   "Quaternary Effect": "Detection",
+   "Comes from": "Default nodes"
+ },
+ {
+   "FIELD1": "",
+   "Reagent": "Crimson Nirnroot",
+   "Primary Effect": "Timidity",
+   "Secondary Effect": "Spell Critical",
+   "Tertiary Effect": "Gradual Ravage Health",
+   "Quaternary Effect": "Restore Health",
+   "Comes from": "Blackreach (unique node type)"
+ },
+ {
+   "FIELD1": "",
+   "Reagent": "Dragon's Bile",
+   "Primary Effect": "Heroism",
+   "Secondary Effect": "Vulnerability",
+   "Tertiary Effect": "Invisible",
+   "Quaternary Effect": "Vitality",
+   "Comes from": "Dragons"
+ },
+ {
+   "FIELD1": "",
+   "Reagent": "Dragon's Blood",
+   "Primary Effect": "Lingering Health",
+   "Secondary Effect": "Restore Stamina",
+   "Tertiary Effect": "Heroism",
+   "Quaternary Effect": "Defile",
+   "Comes from": "Dragons"
+ },
+ {
+   "FIELD1": "",
+   "Reagent": "Dragon Rheum",
+   "Primary Effect": "Restore Magicka",
+   "Secondary Effect": "Heroism",
+   "Tertiary Effect": "Enervation",
+   "Quaternary Effect": "Speed",
+   "Comes from": "Dragons"
+ },
+ {
+   "FIELD1": "",
+   "Reagent": "Dragonthorn",
+   "Primary Effect": "Increase Weapon Power",
+   "Secondary Effect": "Restore Stamina",
+   "Tertiary Effect": "Fracture",
+   "Quaternary Effect": "Weapon Critical",
+   "Comes from": "Default nodes"
+ },
+ {
+   "FIELD1": "",
+   "Reagent": "Emetic Russula",
+   "Primary Effect": "Ravage Health",
+   "Secondary Effect": "Ravage Magicka",
+   "Tertiary Effect": "Ravage Stamina",
+   "Quaternary Effect": "Entrapment",
+   "Comes from": "Fungal nodes"
+ },
+ {
+   "FIELD1": "",
+   "Reagent": "Fleshfly Larva",
+   "Primary Effect": "Ravage Stamina",
+   "Secondary Effect": "Vulnerability",
+   "Tertiary Effect": "Gradual Ravage Health",
+   "Quaternary Effect": "Vitality",
+   "Comes from": "Fleshflies & Zombies"
+ },
+ {
+   "FIELD1": "",
+   "Reagent": "Imp Stool",
+   "Primary Effect": "Maim",
+   "Secondary Effect": "Ravage Stamina",
+   "Tertiary Effect": "Increase Armor",
+   "Quaternary Effect": "Enervation",
+   "Comes from": "Fungal nodes"
+ },
+ {
+   "FIELD1": "",
+   "Reagent": "Lady's Smock",
+   "Primary Effect": "Increase Spell Power",
+   "Secondary Effect": "Restore Magicka",
+   "Tertiary Effect": "Breach",
+   "Quaternary Effect": "Spell Critical",
+   "Comes from": "Default nodes"
+ },
+ {
+   "FIELD1": "",
+   "Reagent": "Luminous Russula",
+   "Primary Effect": "Ravage Stamina",
+   "Secondary Effect": "Maim",
+   "Tertiary Effect": "Restore Health",
+   "Quaternary Effect": "Hindrance",
+   "Comes from": "Fungal nodes"
+ },
+ {
+   "FIELD1": "",
+   "Reagent": "Mountain Flower",
+   "Primary Effect": "Increase Armor",
+   "Secondary Effect": "Restore Health",
+   "Tertiary Effect": "Maim",
+   "Quaternary Effect": "Restore Stamina",
+   "Comes from": "Default nodes"
+ },
+ {
+   "FIELD1": "",
+   "Reagent": "Mudcrab Chitin",
+   "Primary Effect": "Increase Spell Resist",
+   "Secondary Effect": "Increase Armor",
+   "Tertiary Effect": "Protection",
+   "Quaternary Effect": "Defile",
+   "Comes from": "Mudcrabs (NOT Coral Crabs)"
+ },
+ {
+   "FIELD1": "",
+   "Reagent": "Namira's Rot",
+   "Primary Effect": "Spell Critical",
+   "Secondary Effect": "Speed",
+   "Tertiary Effect": "Invisible",
+   "Quaternary Effect": "Unstoppable",
+   "Comes from": "Fungal nodes"
+ },
+ {
+   "FIELD1": "",
+   "Reagent": "Nightshade",
+   "Primary Effect": "Ravage Health",
+   "Secondary Effect": "Protection",
+   "Tertiary Effect": "Gradual Ravage Health",
+   "Quaternary Effect": "Defile",
+   "Comes from": "Default nodes"
+ },
+ {
+   "FIELD1": "",
+   "Reagent": "Nirnroot",
+   "Primary Effect": "Ravage Health",
+   "Secondary Effect": "Uncertainty",
+   "Tertiary Effect": "Enervation",
+   "Quaternary Effect": "Invisible",
+   "Comes from": "Water nodes"
+ },
+ {
+   "FIELD1": "",
+   "Reagent": "Powdered Mother of Pearl",
+   "Primary Effect": "Lingering Health",
+   "Secondary Effect": "Speed",
+   "Tertiary Effect": "Vitality",
+   "Quaternary Effect": "Protection",
+   "Comes from": "Giant Clams"
+ },
+ {
+   "FIELD1": "",
+   "Reagent": "Scrib Jelly",
+   "Primary Effect": "Ravage Magicka",
+   "Secondary Effect": "Speed",
+   "Tertiary Effect": "Vulnerability",
+   "Quaternary Effect": "Lingering Health",
+   "Comes from": "Kwama"
+ },
+ {
+   "FIELD1": "",
+   "Reagent": "Spider Egg",
+   "Primary Effect": "Hindrance",
+   "Secondary Effect": "Invisible",
+   "Tertiary Effect": "Lingering Health",
+   "Quaternary Effect": "Defile",
+   "Comes from": "Spiders"
+ },
+ {
+   "FIELD1": "",
+   "Reagent": "Stinkhorn",
+   "Primary Effect": "Fracture",
+   "Secondary Effect": "Ravage Health",
+   "Tertiary Effect": "Increase Weapon Power",
+   "Quaternary Effect": "Ravage Stamina",
+   "Comes from": "Fungal nodes"
+ },
+ {
+   "FIELD1": "",
+   "Reagent": "Torchbug Thorax",
+   "Primary Effect": "Fracture",
+   "Secondary Effect": "Enervation",
+   "Tertiary Effect": "Detection",
+   "Quaternary Effect": "Vitality",
+   "Comes from": "Torchbugs"
+ },
+ {
+   "FIELD1": "",
+   "Reagent": "Vile Coagulant",
+   "Primary Effect": "Timidity",
+   "Secondary Effect": "Ravage Health",
+   "Tertiary Effect": "Restore Magicka",
+   "Quaternary Effect": "Protection",
+   "Comes from": "Harrowstorms"
+ },
+ {
+   "FIELD1": "",
+   "Reagent": "Violet Coprinus",
+   "Primary Effect": "Breach",
+   "Secondary Effect": "Ravage Health",
+   "Tertiary Effect": "Increase Spell Power",
+   "Quaternary Effect": "Ravage Magicka",
+   "Comes from": "Fungal nodes"
+ },
+ {
+   "FIELD1": "",
+   "Reagent": "Water Hyacinth",
+   "Primary Effect": "Restore Health",
+   "Secondary Effect": "Spell Critical",
+   "Tertiary Effect": "Weapon Critical",
+   "Quaternary Effect": "Entrapment",
+   "Comes from": "Water nodes"
+ },
+ {
+   "FIELD1": "",
+   "Reagent": "White Cap",
+   "Primary Effect": "Cowardice",
+   "Secondary Effect": "Ravage Magicka",
+   "Tertiary Effect": "Increase Spell Resist",
+   "Quaternary Effect": "Detection",
+   "Comes from": "Fungal nodes"
+ },
+ {
+   "FIELD1": "",
+   "Reagent": "Wormwood",
+   "Primary Effect": "Weapon Critical",
+   "Secondary Effect": "Hindrance",
+   "Tertiary Effect": "Detection",
+   "Quaternary Effect": "Unstoppable",
+   "Comes from": "Default nodes"
+ }
+]

@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alchemy", "Alchemy\Alchemy.csproj", "{EBF22542-F47D-41FD-BA9A-5B43FA8749EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBF22542-F47D-41FD-BA9A-5B43FA8749EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBF22542-F47D-41FD-BA9A-5B43FA8749EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBF22542-F47D-41FD-BA9A-5B43FA8749EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBF22542-F47D-41FD-BA9A-5B43FA8749EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
